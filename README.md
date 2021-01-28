@@ -11,3 +11,29 @@ Progress of the tutorials
 - [ ] Set up flak route to display data from the DHT
 -[ ] Control light and read temprature from web browser
 
+<br>
+<hr>
+
+### Project Requirements
+
+#### Hardware Requirements
+
+- Raspberry Pi
+- 2 LED
+- DHT sensor
+- Connecting Wires
+- Breadboard
+
+#### Software Requirements
+
+- Raspberry Pi OS Desktop
+- python3
+- flask
+
+<hr>
+
+
+
+
+
+
