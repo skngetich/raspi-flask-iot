@@ -2,7 +2,7 @@
 
 Progress of the tutorials
 
-- [ ] Sensor Schematics
+- [X] Sensor Schematics
 - [ ] Turn on/off Led
 - [ ] Read from temprature and humidity from dht
 - [ ] Setting up flask environment
@@ -31,9 +31,10 @@ Progress of the tutorials
 - flask
 
 <hr>
+<br>
 
+### Project schematics
 
+Connect the DHT sensor and 2 LED as displayed below:
 
-
-
-
+![DHT sensors and 2 LED connected](./schematics/raspi-flask-iot-schematics_bb.png "schematic")
